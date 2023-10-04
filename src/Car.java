@@ -1,8 +1,18 @@
 public class Car {
-    String color;
-    String model;
-    String price;
-    String type;
+    private String color;
+    private String model;
+    private String price;
+    private String type;
+
+    public Car() {
+    }
+
+    public Car(String color, String model, String price, String type) {
+        this.color = color;
+        this.model = model;
+        this.price = price;
+        this.type = type;
+    }
 
     public String getColor() {
         return color;
@@ -34,5 +44,9 @@ public class Car {
 
     public void setType(String type) {
         this.type = type;
+    }
+
+    public void carInformation(){
+        System.out.println("Model: " + model + ", Color: " + color + " Price: " + price + " Type: " + type);
     }
 }
