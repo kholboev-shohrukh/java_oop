@@ -1,9 +1,9 @@
 public class Person {
-    String name;
-    int age;
-    String nation;
-    String gender;
-    String profession;
+    private String name;
+    private int age;
+    private String nation;
+    private String gender;
+    private String profession;
 
     public String getName() {
         return name;
