@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="OOP and Class">
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Changed Class properties">
+      <change afterPath="$PROJECT_DIR$/src/MathFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,8 @@
       <workItem from="1696234324890" duration="283000" />
       <workItem from="1696234636550" duration="2216000" />
       <workItem from="1696399199205" duration="1707000" />
-      <workItem from="1696502651748" duration="3120000" />
+      <workItem from="1696502651748" duration="4029000" />
+      <workItem from="1696556318923" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -99,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696400285537</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed Class properties">
+      <option name="closed" value="true" />
+      <created>1696523162109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696523162109</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Project" />
     <MESSAGE value="OOP and Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP and Class" />
+    <MESSAGE value="Changed Class properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Class properties" />
   </component>
 </project>
