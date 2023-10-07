@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Add fields">
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial MathFunctions">
+      <change afterPath="$PROJECT_DIR$/src/GeometricFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trapezium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="khshohrukh/oop-inherintance" />
+        <entry key="$PROJECT_DIR$" value="khshohrukh/oop-polymorphism" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "khshohrukh/oop-polymorphism",
+    "git-widget-placeholder": "khshohrukh/oop-polymorphism-overriding",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,7 +88,7 @@
       <workItem from="1696502651748" duration="4029000" />
       <workItem from="1696556318923" duration="1404000" />
       <workItem from="1696606495697" duration="3771000" />
-      <workItem from="1696638625659" duration="2200000" />
+      <workItem from="1696638625659" duration="4824000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -135,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696641395682</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial MathFunctions">
+      <option name="closed" value="true" />
+      <created>1696642610896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696642610896</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +169,7 @@
     <MESSAGE value="Changed Class properties" />
     <MESSAGE value="Initial Class" />
     <MESSAGE value="Add fields" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fields" />
+    <MESSAGE value="Initial MathFunctions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial MathFunctions" />
   </component>
 </project>
