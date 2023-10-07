@@ -1,6 +1,4 @@
-package polymorphism.overriding;
-
-import polymorphism.overriding.GeometricFigure;
+package abstraction;
 
 public class Trapezium extends GeometricFigure {
     private double sideA;
@@ -41,5 +39,10 @@ public class Trapezium extends GeometricFigure {
     public void area() {
         double area = (sideA + sideB) * high / 2;
         System.out.println("Area: " + area);
+    }
+
+    @Override
+    void perimeter() {
+
     }
 }

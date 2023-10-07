@@ -1,6 +1,6 @@
-package polymorphism.overriding;
+package abstraction;
 
-public class Animal {
+public abstract class Animal {
     private String name;
 
     public Animal(String name) {
@@ -15,7 +15,5 @@ public class Animal {
         this.name = name;
     }
 
-    public void sound(){
-        System.out.println("inheritance.Sound");
-    }
+    public abstract void sound();
 }

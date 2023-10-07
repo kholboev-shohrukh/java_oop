@@ -1,10 +1,10 @@
 import inheritance.Doctor;
 import inheritance.Lor;
 import inheritance.Xirurg;
-import polymorphism.overriding.Animal;
-import polymorphism.overriding.Cat;
-import polymorphism.overriding.Dog;
-import polymorphism.overriding.Duck;
+import abstraction.Animal;
+import abstraction.Cat;
+import abstraction.Dog;
+import abstraction.Duck;
 
 public class Main {
     public static void main(String[] args) {
