@@ -11,6 +11,13 @@ public class PersonalComputer extends Computer{
         this.price = price;
     }
 
+    public PersonalComputer(String logicalOperation, String digitilElectronic, String type, String size, double price) {
+        super(logicalOperation, digitilElectronic);
+        this.type = type;
+        this.size = size;
+        this.price = price;
+    }
+
     public String getType() {
         return type;
     }

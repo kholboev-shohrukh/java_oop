@@ -10,6 +10,12 @@ public class Lor extends Doctor{
         this.experience = experience1;
     }
 
+    public Lor(String name, String workplace, int experience) {
+        this.name = name;
+        this.workplace = workplace;
+        this.experience = experience;
+    }
+
     @Override
     public String getName() {
         return name;

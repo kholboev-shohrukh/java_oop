@@ -8,6 +8,12 @@ public class Laptop extends Computer{
         this.price = price;
     }
 
+    public Laptop(String logicalOperation, String digitilElectronic, String model, String price) {
+        super(logicalOperation, digitilElectronic);
+        this.model = model;
+        this.price = price;
+    }
+
     public String getModel() {
         return model;
     }
