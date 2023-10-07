@@ -1,40 +1,21 @@
 public class MathFunctions {
 
-    static private double pi = 3.14159265359;
-    static private double e = 2.71828182846;
-
-    public MathFunctions() {
+    static int add(int a, int b){
+        return a + b;
     }
-
-    public static double getPi() {
-        return pi;
+    static int sub(int a, int b){
+        return a - b;
     }
-
-    public static void setPi(double pi) {
-        MathFunctions.pi = pi;
+    static int multiply(int a, int b){
+        return a * b;
     }
-
-    public static double getE() {
-        return e;
+    static double div(double a, double b){
+        return a / b;
     }
-
-    public static void setE(double e) {
-        MathFunctions.e = e;
+    static double abs(double a){
+        return Math.abs(a);
     }
-
-    static double circle(double r){
-        double s = r * r * pi;
-        return s;
-    }
-
-    static double ePow(int n){
-        double pow = Math.pow(e, n);
-        return pow;
-    }
-
-    static double tArea(double a, double b, double c){
-        double p = (a + b + c) / 2;
-        double s = Math.sqrt(p * (p - a) * (p - b) * (p - c));
-        return s;
+    static double pow(double a){
+        return a * a;
     }
 }
