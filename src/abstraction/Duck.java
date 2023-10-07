@@ -1,4 +1,4 @@
-package polymorphism.overriding;
+package abstraction;
 
 public class Duck extends Animal{
     public Duck(String name) {

@@ -1,6 +1,4 @@
-package polymorphism.overriding;
-
-import polymorphism.overriding.Animal;
+package abstraction;
 
 public class Dog extends Animal {
     public Dog(String name) {

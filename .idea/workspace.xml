@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial GeometricFigure">
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Duck.java" afterDir="false" />
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial Animal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/GeometricFigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/GeometricFigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Trapezium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Trapezium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +62,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "khshohrukh/oop-polymorphism-overriding",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;khshohrukh/oop-polymorphism-overriding&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,7 +93,8 @@
       <workItem from="1696502651748" duration="4029000" />
       <workItem from="1696556318923" duration="1404000" />
       <workItem from="1696606495697" duration="3771000" />
-      <workItem from="1696638625659" duration="5432000" />
+      <workItem from="1696638625659" duration="7119000" />
+      <workItem from="1696685280696" duration="423000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -155,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696650678094</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial Animal">
+      <option name="closed" value="true" />
+      <created>1696651505550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696651505550</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +193,7 @@
     <MESSAGE value="Add fields" />
     <MESSAGE value="Initial MathFunctions" />
     <MESSAGE value="Initial GeometricFigure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial GeometricFigure" />
+    <MESSAGE value="Initial Animal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Animal" />
   </component>
 </project>
