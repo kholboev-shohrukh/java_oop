@@ -1,4 +1,8 @@
-public class Laptop extends Computer{
+package inheritance;
+
+import inheritance.Computer;
+
+public class Laptop extends Computer {
     private String model;
     private String price;
 

@@ -1,4 +1,8 @@
-public class Trapezium extends GeometricFigure{
+package polymorphism.overriding;
+
+import polymorphism.overriding.GeometricFigure;
+
+public class Trapezium extends GeometricFigure {
     private double sideA;
     private double sideB;
     private double high;

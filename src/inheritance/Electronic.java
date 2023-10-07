@@ -1,3 +1,5 @@
+package inheritance;
+
 public class Electronic {
     private String microelectronic;
     private String nanoelectronic;

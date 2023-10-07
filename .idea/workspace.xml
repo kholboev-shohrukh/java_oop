@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial MathFunctions">
-      <change afterPath="$PROJECT_DIR$/src/GeometricFigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trapezium.java" afterDir="false" />
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial GeometricFigure">
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/overriding/Duck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <workItem from="1696502651748" duration="4029000" />
       <workItem from="1696556318923" duration="1404000" />
       <workItem from="1696606495697" duration="3771000" />
-      <workItem from="1696638625659" duration="4824000" />
+      <workItem from="1696638625659" duration="5432000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -146,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696642610896</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial GeometricFigure">
+      <option name="closed" value="true" />
+      <created>1696650678094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696650678094</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +179,7 @@
     <MESSAGE value="Initial Class" />
     <MESSAGE value="Add fields" />
     <MESSAGE value="Initial MathFunctions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial MathFunctions" />
+    <MESSAGE value="Initial GeometricFigure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial GeometricFigure" />
   </component>
 </project>

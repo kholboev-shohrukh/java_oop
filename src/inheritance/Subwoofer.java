@@ -1,4 +1,8 @@
-public class Subwoofer extends Sound{
+package inheritance;
+
+import inheritance.Sound;
+
+public class Subwoofer extends Sound {
 
     private String type;
     private String price;

@@ -1,3 +1,5 @@
+package inheritance;
+
 public class Doctor {
 
     private String name;

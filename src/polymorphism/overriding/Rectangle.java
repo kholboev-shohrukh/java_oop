@@ -1,4 +1,8 @@
-public class Rectangle extends GeometricFigure{
+package polymorphism.overriding;
+
+import polymorphism.overriding.GeometricFigure;
+
+public class Rectangle extends GeometricFigure {
     private double sideA;
     private double sideB;
 

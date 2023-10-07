@@ -1,4 +1,8 @@
-public class Triangle extends GeometricFigure{
+package polymorphism.overriding;
+
+import polymorphism.overriding.GeometricFigure;
+
+public class Triangle extends GeometricFigure {
 
     private double sideA;
     private double sideB;
