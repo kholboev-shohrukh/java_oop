@@ -8,6 +8,11 @@ public class Computer extends Electronic{
         this.digitilElectronic = digitilElectronic;
     }
 
+    public Computer(String logicalOperation, String digitilElectronic) {
+        this.logicalOperation = logicalOperation;
+        this.digitilElectronic = digitilElectronic;
+    }
+
     public String getLogicalOperation() {
         return logicalOperation;
     }

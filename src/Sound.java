@@ -8,6 +8,11 @@ public class Sound extends Electronic{
         this.psychology = psychology;
     }
 
+    public Sound(String physiology, String psychology) {
+        this.physiology = physiology;
+        this.psychology = psychology;
+    }
+
     public String getPhysiology() {
         return physiology;
     }

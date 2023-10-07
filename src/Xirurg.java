@@ -11,6 +11,12 @@ public class Xirurg extends Doctor{
         this.experience = experience1;
     }
 
+    public Xirurg(String name, int age, int experience) {
+        this.name = name;
+        this.age = age;
+        this.experience = experience;
+    }
+
     @Override
     public String getName() {
         return name;
