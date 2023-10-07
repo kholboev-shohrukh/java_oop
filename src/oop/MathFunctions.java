@@ -1,3 +1,5 @@
+package oop;
+
 public class MathFunctions {
 
     static int add(int a, int b){

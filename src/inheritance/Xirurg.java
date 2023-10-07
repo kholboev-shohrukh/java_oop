@@ -1,4 +1,8 @@
-public class Xirurg extends Doctor{
+package inheritance;
+
+import inheritance.Doctor;
+
+public class Xirurg extends Doctor {
 
     private String name;
     private int age;

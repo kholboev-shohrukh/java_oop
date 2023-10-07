@@ -1,4 +1,8 @@
-public class Lor extends Doctor{
+package inheritance;
+
+import inheritance.Doctor;
+
+public class Lor extends Doctor {
     private String name;
     private String workplace;
     private int experience;

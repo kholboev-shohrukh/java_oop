@@ -1,4 +1,6 @@
-public class Loudspeaker extends Sound{
+package inheritance;
+
+public class Loudspeaker extends Sound {
 
     private String model;
     private String price;

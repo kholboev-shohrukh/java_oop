@@ -1,4 +1,8 @@
-public class Sound extends Electronic{
+package inheritance;
+
+import inheritance.Electronic;
+
+public class Sound extends Electronic {
     private String physiology;
     private String psychology;
 

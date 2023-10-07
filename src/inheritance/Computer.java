@@ -1,4 +1,8 @@
-public class Computer extends Electronic{
+package inheritance;
+
+import inheritance.Electronic;
+
+public class Computer extends Electronic {
     private String logicalOperation;
     private String digitilElectronic;
 

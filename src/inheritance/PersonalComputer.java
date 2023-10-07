@@ -1,4 +1,8 @@
-public class PersonalComputer extends Computer{
+package inheritance;
+
+import inheritance.Computer;
+
+public class PersonalComputer extends Computer {
 
     private String type;
     private String size;
