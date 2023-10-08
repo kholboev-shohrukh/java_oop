@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial Animal">
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial Abstact classes">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/GoalKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Setter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/VolleyballPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/GeometricFigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/GeometricFigure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Trapezium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Trapezium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/overriding/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="khshohrukh/oop-polymorphism" />
+        <entry key="$PROJECT_DIR$" value="khshohrukh/oop-polymorphism-overriding" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +67,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;khshohrukh/oop-polymorphism-overriding&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;khshohrukh/abstraction&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -94,7 +93,8 @@
       <workItem from="1696556318923" duration="1404000" />
       <workItem from="1696606495697" duration="3771000" />
       <workItem from="1696638625659" duration="7119000" />
-      <workItem from="1696685280696" duration="423000" />
+      <workItem from="1696685280696" duration="4750000" />
+      <workItem from="1696775469876" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -168,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696651505550</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial Abstact classes">
+      <option name="closed" value="true" />
+      <created>1696685817839</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696685817839</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +202,7 @@
     <MESSAGE value="Initial MathFunctions" />
     <MESSAGE value="Initial GeometricFigure" />
     <MESSAGE value="Initial Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Animal" />
+    <MESSAGE value="Initial Abstact classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Abstact classes" />
   </component>
 </project>
