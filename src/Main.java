@@ -1,23 +1,19 @@
-import inheritance.Doctor;
-import inheritance.Lor;
-import inheritance.Xirurg;
-import abstraction.Animal;
-import abstraction.Cat;
-import abstraction.Dog;
-import abstraction.Duck;
+import task2.oop.MyTime;
 
 public class Main {
     public static void main(String[] args) {
-        Doctor xirurg = new Xirurg("Akmal", 32, 4);
-        xirurg.information();
-        Doctor lor = new Lor("Akmal", "Hospital", 4);
-        lor.information();
+        MyTime time = new MyTime();
+        time.setTime(23, 00, 00);
+//        System.out.println(time.toString());
+//        time.nextSecond();
+//        System.out.println(time.toString());
+//        time.nextMinut();
+//        System.out.println(time.toString());
 
-        Animal dog = new Dog("Rex");
-        dog.sound();
-        Animal duck = new Duck("Goose");
-        duck.sound();
-        Animal cat = new Cat("Pet");
-        cat.sound();
+        System.out.println(time.toString());
+        time.previousSecond();
+        System.out.println(time.toString());
+        time.previousMinut();
+        System.out.println(time.toString());
     }
 }
