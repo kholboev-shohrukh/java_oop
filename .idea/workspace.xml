@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial Person class">
-      <change afterPath="$PROJECT_DIR$/src/task2/oop/MyTime.java" afterDir="false" />
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial MyTime class">
+      <change afterPath="$PROJECT_DIR$/src/statices/MathFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/MathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MathFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,11 @@
       <workItem from="1696638625659" duration="7119000" />
       <workItem from="1696685280696" duration="4750000" />
       <workItem from="1696775469876" duration="3307000" />
-      <workItem from="1696814846656" duration="3362000" />
+      <workItem from="1696814846656" duration="4116000" />
+      <workItem from="1696847019779" duration="5000" />
+      <workItem from="1696856008385" duration="5000" />
+      <workItem from="1696862030951" duration="80000" />
+      <workItem from="1696956608169" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -198,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696778121787</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial MyTime class">
+      <option name="closed" value="true" />
+      <created>1696819221406</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696819221406</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +241,7 @@
     <MESSAGE value="Initial Interface classes" />
     <MESSAGE value="Initial BaseConverter classes" />
     <MESSAGE value="Initial Person class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Person class" />
+    <MESSAGE value="Initial MyTime class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial MyTime class" />
   </component>
 </project>
