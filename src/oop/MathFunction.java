@@ -1,6 +1,6 @@
 package oop;
 
-public class MathFunctions {
+public class MathFunction {
 
     static int add(int a, int b){
         return a + b;
