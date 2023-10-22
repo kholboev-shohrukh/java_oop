@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Initial MyTime class">
-      <change afterPath="$PROJECT_DIR$/src/statices/MathFunctions.java" afterDir="false" />
+    <list default="true" id="e0b410fb-a701-41db-8ffb-ebbc2880a312" name="Changes" comment="Add MathFunctions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/MathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/MathFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstraction/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,15 @@
       <workItem from="1696847019779" duration="5000" />
       <workItem from="1696856008385" duration="5000" />
       <workItem from="1696862030951" duration="80000" />
-      <workItem from="1696956608169" duration="329000" />
+      <workItem from="1696956608169" duration="682000" />
+      <workItem from="1696989318602" duration="1303000" />
+      <workItem from="1696997958627" duration="5000" />
+      <workItem from="1697033679802" duration="603000" />
+      <workItem from="1697470583876" duration="997000" />
+      <workItem from="1697515515178" duration="925000" />
+      <workItem from="1697598653227" duration="1065000" />
+      <workItem from="1697680931431" duration="37000" />
+      <workItem from="1697890009298" duration="2157000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project">
       <option name="closed" value="true" />
@@ -211,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696819221406</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add MathFunctions">
+      <option name="closed" value="true" />
+      <created>1696957102473</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696957102473</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +256,7 @@
     <MESSAGE value="Initial BaseConverter classes" />
     <MESSAGE value="Initial Person class" />
     <MESSAGE value="Initial MyTime class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial MyTime class" />
+    <MESSAGE value="Add MathFunctions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MathFunctions" />
   </component>
 </project>
