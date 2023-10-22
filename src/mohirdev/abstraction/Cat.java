@@ -10,4 +10,14 @@ public class Cat extends Animal{
     public void sound() {
         System.out.println(getName() + " - meow meow");
     }
+
+    @Override
+    public String sayHello() {
+        return null;
+    }
+
+    @Override
+    public String run() {
+        return null;
+    }
 }
