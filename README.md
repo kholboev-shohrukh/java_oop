@@ -1,2 +1,2 @@
-# java_oop
-Practice of Object Oriented Programming in Java
+# elibrary
+Electronic library project based on OOP in Java.
